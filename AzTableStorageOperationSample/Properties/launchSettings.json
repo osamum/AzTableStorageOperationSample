@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzTableStorageOperationSample": {
+      "commandName": "Project",
+      "commandLineArgs": "enum testTabl 6"
+    }
+  }
+}
